@@ -1,0 +1,5 @@
+{
+  "name": "Gemini AI 交易机器人",
+  "description": "一个复杂的仪表盘，模拟由 AI 驱动的自动交易机器人。它可视化市场数据、投资组合表现，并根据 Gemini API 提供的 AI 决策执行交易。",
+  "requestFramePermissions": []
+}
